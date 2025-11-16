@@ -1,34 +1,79 @@
-Hi there, I'm Alen 👋
+<h1 align="center">Hi there, I'm Alen 👋</h1>
 
-I'm a novice web developer with a passion for coding. I started my programming journey at ACA school, where I learned Python and the Django framework. Currently, I’m focused on web development and eager to find job opportunities to apply my skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFB3&center=true&vCenter=true&width=500&lines=Web+Developer;Python+%26+Django+Enthusiast;Always+Learning+New+Things" alt="typing" />
+</p>
 
-## 🌱 I’m currently learning:
-- Web Development
-- Django Framework
-- Frontend Technologies
+---
 
-## ✅ What i know:
-![python]( https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![Django]( https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white)
-![HTML]( https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML&logoColor=white)
-![Css]( https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=Css&logoColor=white)
-![Postgresql]( https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql&logoColor=white)
-![Docker]( https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white)
-![Git]( https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub]( https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
-## 💼 Looking for:
-- Job opportunities in web development
+## 🚀 About Me  
+I'm a **novice web developer** passionate about building clean, modern, and functional applications.  
+My programming journey began at **ACA**, where I learned **Python** and the **Django** framework.  
+Right now, I'm focused on becoming a full-time web developer and open to **job opportunities**.
 
-## ✅  My LeetCode and  CodeWars:
+---
 
-- [![Codewars]( https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=red)](https://www.codewars.com/users/alenboryan)  
-- [![LeetCode]( https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/alen_____0704/)  
+## 🌱 Currently Learning  
+- Full-stack Web Development  
+- Django & DRF  
+- Frontend Technologies  
+- Clean code & best practices  
 
+---
 
-## 📫 How to reach me:
-- [![Telegram]( https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=Blue)](https://t.me/AL07en)  
-- [![LinkedIn]( https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/alen-boryan-a660772b0/)  
+## 🛠️ Tech Stack  
 
+### **Backend & Core**
+![Python](https://img.shields.io/badge/Python-1f1f1f?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1f1f1f?style=for-the-badge&logo=django&logoColor=white)
 
+<!--
+  Ниже — три варианта бейджа PostgreSQL.
+  Оставь только тот вариант, который понравится, удалив два других.
+-->
 
-Feel free to reach out if you want to connect or collaborate!
+### **PostgreSQL — Варианты бейджа (выбери 1)**
+<!-- Вариант 1: Минималистичный тёмный -->
+![PostgreSQL (Dark Minimal)](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Вариант 2: Фирменный стиль PostgreSQL -->
+![PostgreSQL (Brand Blue)](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Вариант 3: Неоновый / Акцентный -->
+![PostgreSQL (Neon Accent)](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=00E7FF)
+
+---
+
+### **Frontend**
+![HTML](https://img.shields.io/badge/HTML5-1f1f1f?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-1f1f1f?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-1f1f1f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🔥 Coding Profiles  
+
+[![Codewars](https://img.shields.io/badge/Codewars-1f1f1f?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/alenboryan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1f1f1f?style=for-the-badge&logo=leetcode&logoColor=f89f1b)](https://leetcode.com/alen_____0704/)
+
+---
+
+## 💼 Looking For  
+- Web developer internship  
+- Junior developer roles  
+- Open-source collaboration  
+
+---
+
+## 📫 Contact Me  
+
+[![Telegram](https://img.shields.io/badge/Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=0078FF)](https://t.me/AL07en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alen-boryan-a660772b0/)
+
+---
+
+<p align="center">✨ Feel free to reach out if you want to connect, collaborate, or build something cool together!</p>
