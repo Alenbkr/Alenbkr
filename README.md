@@ -32,7 +32,7 @@ Right now, I'm focused on becoming a full-time web developer and open to **job o
   Оставь только тот вариант, который понравится, удалив два других.
 -->
 
-### **PostgreSQL — Варианты бейджа 
+### PostgreSQL  
 
 
 <!-- Вариант 2: Фирменный стиль PostgreSQL -->
