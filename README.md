@@ -32,15 +32,13 @@ Right now, I'm focused on becoming a full-time web developer and open to **job o
   Оставь только тот вариант, который понравится, удалив два других.
 -->
 
-### **PostgreSQL — Варианты бейджа (выбери 1)**
-<!-- Вариант 1: Минималистичный тёмный -->
-![PostgreSQL (Dark Minimal)](https://img.shields.io/badge/PostgreSQL-1f1f1f?style=for-the-badge&logo=postgresql&logoColor=white)
+### **PostgreSQL — Варианты бейджа 
+
 
 <!-- Вариант 2: Фирменный стиль PostgreSQL -->
 ![PostgreSQL (Brand Blue)](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- Вариант 3: Неоновый / Акцентный -->
-![PostgreSQL (Neon Accent)](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=00E7FF)
+
 
 ---
 
